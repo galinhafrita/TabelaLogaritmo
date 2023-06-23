@@ -3,8 +3,3 @@ Trabalho elaborado para a disciplina de Cálculo 1. Tem como objetivo a criaçã
 
 [Clique aqui para acessar ao trabalho finalizado](https://galinhafrita.github.io/TabelaLogaritmo/)
 
-#### Integrantes
-* Arthur Santos
-* Catarina F. M. Castro
-* Davi Oliveira Sad
-* Matheus Fagundes
